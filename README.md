@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Binisha Bhattarai
 
-<!--
-**Binishabhattarai/Binishabhattarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Computer Science student with a strong interest in:
 
-Here are some ideas to get you started:
+C Programming and Object-Oriented Programming in C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python for Data Science
+
+Web Development and Front-End Design
+
+🎯 Goals
+
+Build a solid foundation in programming and algorithms
+
+Work on real-world projects to strengthen my portfolio
+
+Pursue an MSc in Computer Science or Data Science
+
+Explore roles in Data Analysis and Software Development
+
+⚙️ Projects
+
+Currently building projects using C and C++. More coming soon!
+
+📬 Let's Connect
+
+📧 Email: binishabhattarai57@gmail.com
+
+🔗 Linkedin: Coming soon
+
+Thanks for visiting my profile! 😊
