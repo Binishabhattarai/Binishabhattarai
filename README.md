@@ -2,11 +2,11 @@
 
 I'm a final-year Computer Science student with a strong interest in:
 
-C Programming and Object-Oriented Programming in C++
+Front-End Design
 
 Python for Data Science
 
-Web Development and Front-End Design
+Web Development  
 
 🎯 Goals
 
@@ -20,7 +20,7 @@ Explore roles in Data Analysis and Software Development
 
 ⚙️ Projects
 
-Currently building projects using C and C++. More coming soon!
+Currently building projects using C and C++ then move to other languages. More coming soon!
 
 📬 Let's Connect
 
