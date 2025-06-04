@@ -20,7 +20,7 @@ Explore roles in Data Analysis and Software Development
 
 ⚙️ Projects
 
-Currently building projects using C and C++ then move to other languages. More coming soon!
+Currently building projects. More coming soon!
 
 📬 Let's Connect
 
